@@ -1,0 +1,4 @@
+﻿  lec7.c
+C:\Users\USER\Documents\data-structure-lab-2024\Project1\Project1\lec7.c(8,3): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Project1\Project1\lec7.c(4,12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+  Project1.vcxproj -> C:\Users\USER\Documents\data-structure-lab-2024\Project1\x64\Debug\Project1.exe
