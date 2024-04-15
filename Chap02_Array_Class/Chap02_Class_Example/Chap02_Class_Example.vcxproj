@@ -132,7 +132,9 @@
   <ItemGroup>
     <ClInclude Include="Car.h" />
     <ClInclude Include="Complex.h" />
+    <ClInclude Include="Music.h" />
     <ClInclude Include="Rectangle.h" />
+    <ClInclude Include="SmartHome.h" />
     <ClInclude Include="SportsCar.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
